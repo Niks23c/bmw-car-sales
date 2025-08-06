@@ -88,8 +88,8 @@ Classify whether a BMW car sale is likely to be high or low based on its specifi
 
 ## 🙌 Author
 
-- **Nikhil Choudhury**  
-  [GitHub Profile](https://github.com/Niks23c)
+- **Nikhil Chavan**  
+  [GitHub Profile]([https://github.com/Niks23c](https://github.com/Niks23c))
 
 ---
 
